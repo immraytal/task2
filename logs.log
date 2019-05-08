@@ -1,0 +1,42 @@
+2019-05-06 14:12:09 ERROR TextAnalyzer:25 - File not found or haven't permissions
+java.nio.file.NoSuchFileException: \task2\src\main\resources\text.txt
+2019-05-06 14:13:04 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+2019-05-06 14:43:05 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+2019-05-06 14:43:05 INFO  TextAnalyzer:66 - Not found a unique word from the first sentence
+2019-05-07 16:34:43 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-07 16:39:07 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-07 16:39:07 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-07 16:39:13 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-07 16:39:13 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-07 16:40:43 INFO  TextAnalyzer:58 - Found a unique word from the first sentence - English
+2019-05-07 16:41:49 INFO  TextAnalyzer:58 - Found a unique word from the first sentence - English
+2019-05-07 16:43:27 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - 
+2019-05-07 16:45:38 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - 
+2019-05-07 16:46:04 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - 
+2019-05-07 16:46:11 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - English
+2019-05-07 16:47:24 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - English
+2019-05-07 16:47:49 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - us
+2019-05-07 16:49:04 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - us
+2019-05-07 16:49:29 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - us
+2019-05-07 16:50:07 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - us
+2019-05-07 16:53:22 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - 
+2019-05-07 16:54:13 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - 
+2019-05-07 16:54:41 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - 
+2019-05-07 16:55:16 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - 
+2019-05-07 16:55:36 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - 
+2019-05-07 16:56:17 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - 
+2019-05-07 16:57:02 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - 
+2019-05-07 16:57:25 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - First
+2019-05-07 16:57:43 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - First
+2019-05-07 16:59:07 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - First
+2019-05-07 16:59:40 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - First
+2019-05-07 17:00:00 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - First
+2019-05-07 17:01:21 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - First
+2019-05-08 10:27:07 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-08 10:27:07 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - First
+2019-05-08 10:27:34 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-08 10:27:34 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-08 10:27:34 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-08 10:27:34 INFO  TextAnalyzer:68 - Not found a unique word from the first sentence
+2019-05-08 10:27:47 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-08 10:27:47 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - First
