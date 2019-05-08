@@ -40,3 +40,5 @@ java.nio.file.NoSuchFileException: \task2\src\main\resources\text.txt
 2019-05-08 10:27:34 INFO  TextAnalyzer:68 - Not found a unique word from the first sentence
 2019-05-08 10:27:47 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
 2019-05-08 10:27:47 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - First
+2019-05-08 11:57:06 INFO  Paragraph:22 - Overrun - cancel operation java.lang.StringIndexOutOfBoundsException: String index out of range: 19
+2019-05-08 11:57:06 INFO  TextAnalyzer:49 - Found a unique word from the first sentence - First

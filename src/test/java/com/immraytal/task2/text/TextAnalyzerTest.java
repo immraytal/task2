@@ -2,10 +2,7 @@ package com.immraytal.task2.text;
 
 import org.junit.Assert;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.junit.Test;
-
-import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
@@ -25,7 +22,6 @@ public class TextAnalyzerTest {
     public void GetFullTextTest() {
         TextParser tx = new TextAnalyzer(text);
             Assert.assertEquals(tx.getFullElement(),text);
-
     }
 
     @Test
