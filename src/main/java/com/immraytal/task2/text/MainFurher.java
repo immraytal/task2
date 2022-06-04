@@ -52,8 +52,8 @@ class Bucket {
 class MainFurher {
     public static void main(String[] args) {
         List<Flower> flowers = new ArrayList<>();
-        flowers.add(new Rosa(123D));
-        flowers.add(new Fialka(22D));
+        flowers.add(new Rosa(121233D));
+        flowers.add(new Fialka(21232D));
         Bucket bucket = new Bucket(flowers);
         System.out.println(bucket);
     }
